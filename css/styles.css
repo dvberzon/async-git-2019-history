@@ -1,0 +1,19 @@
+body {
+  font-family: Raleway, Helvetica, Arial, sans-serif;
+  font-size: 2em;
+}
+
+#container {
+  width: 800px;
+  margin: 0px auto;
+}
+
+header {
+  padding: 50px;
+  text-align: center;
+}
+
+main p {
+  margin-bottom: 30px;
+  font-size: 1em;
+}

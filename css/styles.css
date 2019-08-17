@@ -18,6 +18,11 @@ main p {
   font-size: 1em;
 }
 
+div.git-logo {
+  padding: 32px;
+  margin-bottom: 30px;
+}
+
 footer {
   border-top: solid 1px #ccc;
   padding: 20px 0 40px 0;
